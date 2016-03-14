@@ -36,8 +36,8 @@ body{ padding-top: 100px;}
 #result {
 	padding: 36px;
 	font-size: 200%;
-	background-color: rgb(63, 63, 63);
-	color: white;
+	background-color: rgb(216, 216, 216);
+	color: black;
 }
 
 .form-control {
