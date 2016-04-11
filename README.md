@@ -3,6 +3,6 @@
 A basic calculator created in vanilla Javascript. 
 
 ### Demo
-[codepen] (http://codepen.io/rickyjw/full/NNRXqE/)
+[codepen] (http://codepen.io/rickyjw/full/NNRXqE/) OR 
 [Demo] (http://rickywid.github.io/calculator_javascript)
 
